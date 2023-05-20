@@ -1,0 +1,2 @@
+# Mamii
+Doğrulanmış rozet
